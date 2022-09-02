@@ -8,8 +8,6 @@
 * ### Check the output
 * ### Improve
 
-
-
 ## Facebook Field Guide to Machine Learning
 Goal defining
 Data gathering
